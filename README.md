@@ -48,7 +48,7 @@ If you use the provided method in this repository, please cite the following pap
 
 ## Downloading the Dataset
 
-We collect the dataset consisting of unpaired poor and good quality X-ray samples. The dataset is available [here](https://drive.google.com/file/d/16U6raQOhkBwGgw3pOnWbJ_4OXJe00zgu/view?usp=sharing), please download the file and unzip it:
+We collect the dataset consisting of unpaired poor and good quality X-ray samples. The dataset is available [here](https://drive.google.com/file/d/1-bfZohPet9kXoBDW4Ujicod-p7mtU05I/view?usp=sharing), please download the file and unzip it:
 
 ```
 unzip dataset.zip
