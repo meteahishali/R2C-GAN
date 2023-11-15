@@ -15,7 +15,7 @@ Software environment:
 ```
 # Python with the following version and libraries.
 
-conda create -n r2c-gan python=3.9
+conda create -n r2c-gan python=3.7.11
 
 conda activate r2c-gan
 
